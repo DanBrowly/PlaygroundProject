@@ -1,0 +1,9 @@
+/* feed bloco */
+.feed {
+    /* border: solid 1px grey; */
+    border-radius: 15px;
+    display: inline-block;
+    height: 100%;
+    width: 50%;
+
+  }

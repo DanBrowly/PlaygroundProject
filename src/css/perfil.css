@@ -1,0 +1,16 @@
+
+  /* perfil */
+  .perfil{
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+    height: 100%;
+    width: 100%;
+    transition: 0.5s;
+    
+  }
+
+  .perfil:hover {
+    background-color: rgb(30, 30, 30);
+    padding: 0.1%;
+
+  }

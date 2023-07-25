@@ -1,0 +1,17 @@
+
+  /* explorado bloco */
+  .explore{
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+    display: inline-block;
+    height: 100%;
+    width: 25%;
+    transition: 0.5;
+
+  }
+
+  .explore:hover {
+    background-color: rgb(30, 30, 30);
+    padding: 0.1%;
+
+  }
