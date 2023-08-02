@@ -14,3 +14,33 @@
     padding: 0.1%;
 
   }
+
+  /* foto Perfil */
+.imagemPerfil {
+  /* border-radius: 50%; */
+  width: 5%;
+  clip-path: circle();
+
+}
+
+.topo {
+  display: flex;
+  justify-content:left ;
+  
+}
+.meio {
+  /* border: solid 1px grey; */
+  border-radius: 15px;
+  display: inline-block;
+  height: 100%;
+  width: 50%;
+
+}
+
+.contato {
+  display: flex;
+  justify-content: right;
+  width: 25%;
+  
+}
+

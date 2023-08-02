@@ -36,3 +36,11 @@ body {
     color: white;
 
   }
+  
+  .nome {
+    display: flex;
+    justify-content: top;
+  
+  }
+
+  
