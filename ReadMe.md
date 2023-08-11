@@ -8,3 +8,8 @@ Version 0.3
 Atualização do perfil
 
 Um estudo de como monta um site
+
+
+Version 0.6 
+
+apredendo a documentar o projeto
