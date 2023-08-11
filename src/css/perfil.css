@@ -18,7 +18,8 @@
   /* foto Perfil */
 .imagemPerfil {
   /* border-radius: 50%; */
-  width: 5%;
+  max-width: 100%;
+  width: 100px; 
   clip-path: circle();
 
 }
